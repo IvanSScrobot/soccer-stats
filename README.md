@@ -1,10 +1,11 @@
-# Articles
-[Integrating Ansible with Jenkins in a CI/CD process](https://www.redhat.com/en/blog/integrating-ansible-jenkins-cicd-process?source=author&term=25641)
-[Take Ansible and Jenkins Integration to the next level: CI/CD with Ansible Tower](https://www.redhat.com/en/blog/take-ansible-and-jenkins-integration-next-level-cicd-ansible-tower)
-
 # Soccer Stats
 
 Soccer Stats is an example application to be used as a proof of concept for a presentation at [Ansible Meetup in São Paulo](https://www.meetup.com/Ansible-Sao-Paulo/events/243212921/).
+
+## Articles
+[Integrating Ansible with Jenkins in a CI/CD process](https://www.redhat.com/en/blog/integrating-ansible-jenkins-cicd-process?source=author&term=25641)
+[Take Ansible and Jenkins Integration to the next level: CI/CD with Ansible Tower](https://www.redhat.com/en/blog/take-ansible-and-jenkins-integration-next-level-cicd-ansible-tower)
+
 
 ## Pre-requistes
 
